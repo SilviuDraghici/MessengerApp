@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\libs\metadata-extractor-2.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\2\metadata-extractor-2.9.1_3ac5ad365ca65fb5e0710ec00ac4809469ff5354\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_190be389a103197156bf9b4d213a4ce8270c526c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_482ce75bee1e53fa59fbeb47c320b36238be7737\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1d81103b9f9de2385f280b28f11ee8ca40c2deef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_695d9d93eae732babc33f9051d37b9a6841b93b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_322f56470b012c11999a03df63bc42406408434d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_178b5bc04c082f90e7975787b35a0926544c8147\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d2810f1254988faadcdbc704a7ca9d0c8be29795">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9f3b9be595b6ab03a6996e667d58ee837089b69d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_ffe2ea90b7c8e8f4096258be7b30e7d722ff43c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_939c7f96bca273896a1dbbb038b2b54abf0ebd97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1b7984e9f5364b4d7f8ec7db6fc4400f1510aa85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c0e6f6f382b1ea653cfbaa055582e9f4ff4486a8">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fa94ed2b5280b66f5361fb256782956f147f8966\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_fb7226c8ef2f7ef50ed9fdfb9180396f7a3197ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_94b98497cd9a9bd512b2490ffec8e1722c08a2c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_7c03f17912b4a8a25e5d052586ee8d444024b459\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8dcb1fcb95ecd979402dc953c5dda1bea935b991\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_eb28626eb85db6d0a5382f681d1e85f949bdd14c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_2faeed3021dccd912e59ec5d69f522b3324510c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_0635320c86cd429cba251ad9102cc40df5b89623\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\silvi\Documents\AndroidStudioProjects\SilverMessenger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_6b5429a5b28652c27c39745ea416336e0cc73c0a\classes.dex" />
+    </item>
+
+</items>

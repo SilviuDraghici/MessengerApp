@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="60dp">
+
+    <ImageView
+        android:id="@+id/conversationIcon"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_margin="5dip"
+        android:src="@drawable/mlg_roose"/>
+
+    <TextView
+        android:id="@+id/conversationTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Example Title"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_alignTop="@+id/conversationIcon"
+        android:layout_toRightOf="@+id/conversationIcon"/>
+
+    <TextView
+        android:id="@+id/lastMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="last meaasge"
+        android:layout_below="@+id/conversationTitle"
+        android:layout_alignLeft="@+id/conversationTitle"/>
+
+    <TextView
+        android:id="@+id/lastMessageTime"
+        android:text="8:55pm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="5dp"/>
+
+
+</RelativeLayout>

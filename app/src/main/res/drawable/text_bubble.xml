@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/text_bubble_background">
+    <stroke android:width="2dp" android:color="#000000" />
+    <corners android:radius="10dp" />
+    <gradient
+        android:angle="270"
+        android:centerX="0"
+        android:centerY="0"
+        android:startColor="#FFFFFF"
+        android:endColor="#FFFFFF"
+        android:type="linear"/>
+</shape>
